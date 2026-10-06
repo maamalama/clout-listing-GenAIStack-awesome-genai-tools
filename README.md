@@ -61,6 +61,7 @@ Image V2 is a practical web platform for AI image generation and editing, design
 * **[Ideogram](https://ideogram.ai/)** - Specialized in generating coherent text within images.
 * **[Leonardo.ai](https://leonardo.ai/)** - Production-quality visual assets with fine-tuned models.
 * **[Civitai](https://civitai.com/)** - The largest community for sharing Stable Diffusion models and LoRAs.
+* **[Clout](https://tryclout.ai/)** - Browser-based AI character creation, image and video generation, and faceless content workflows.
 
 ### Open Source / Local
 * **[Stable Diffusion WebUI (Automatic1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - The classic interface for running SD models locally.
